@@ -1,0 +1,17 @@
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.deps.json
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.runtimeconfig.json
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.UnitTests.pdb
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.Entities.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\bin\Debug\netcoreapp2.1\Fitbit.Entities.pdb
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.AssemblyInfo.cs
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.csproj.CopyComplete
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.UnitTests\obj\Debug\netcoreapp2.1\Fitbit.UnitTests.pdb

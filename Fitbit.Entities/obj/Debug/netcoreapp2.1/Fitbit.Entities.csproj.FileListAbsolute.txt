@@ -1,0 +1,9 @@
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.deps.json
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\bin\Debug\netcoreapp2.1\Fitbit.Entities.pdb
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.AssemblyInfo.cs
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.dll
+C:\Users\Nico\Desktop\PersonalRepos\PersonalReposNicolas\Fitbit.Entities\obj\Debug\netcoreapp2.1\Fitbit.Entities.pdb
